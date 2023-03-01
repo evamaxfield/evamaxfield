@@ -5,3 +5,19 @@ I am currently a PhD student at the [University of Washington Information School
 (And sometimes I do some biology and microscopy data engineering work too.)
 
 For more details about me, [see my website](https://evamaxfield.github.io).
+
+Projects I Maintain:
+* [CouncilDataProject](https://github.com/CouncilDataProject)
+  * [cookiecutter-cdp-deployment](https://github.com/CouncilDataProject/cookiecutter-cdp-deployment)
+  * [cdp-backend](https://github.com/CouncilDataProject/cdp-backend)
+  * [cdp-data](https://github.com/CouncilDataProject/cdp-data)
+  * [speakerbox](https://github.com/CouncilDataProject/speakerbox)
+* [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio)
+* [cookiecutter-py-package](https://github.com/evamaxfield/cookiecutter-py-package)
+
+Projects in Development:
+* [lazy-text-classifiers](https://github.com/evamaxfield/lazy-text-classifiers)
+* [papers-without-code](https://github.com/evamaxfield/papers-without-code)
+* [cookiecutter-quarto](https://github.com/evamaxfield/cookiecutter-quarto)
+
+
