@@ -8,6 +8,7 @@ For more details about me, [see my website](https://evamaxfield.github.io).
 
 Projects in Development:
 * [rs-graph](https://github.com/evamaxfield/rs-graph)
+* [sci-soft-models](https://github.com/evamaxfield/sci-soft-models)
 
 Outdated but Will Revist Soon:
 * [papers-without-code](https://github.com/evamaxfield/papers-without-code)
