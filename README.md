@@ -9,10 +9,10 @@ For more details about me, [see my website](https://evamaxfield.github.io).
 Projects in Development:
 * [rs-graph](https://github.com/evamaxfield/rs-graph)
 * [sci-soft-models](https://github.com/evamaxfield/sci-soft-models)
+* [aws-grobid](https://github.com/evamaxfield/aws-grobid)
 
 Outdated but Will Revist Soon:
 * [papers-without-code](https://github.com/evamaxfield/papers-without-code)
-* [cookiecutter-quarto](https://github.com/evamaxfield/cookiecutter-quarto)
 
 Old Projects:
 * [CouncilDataProject](https://github.com/CouncilDataProject)
@@ -20,3 +20,7 @@ Old Projects:
   * [cdp-backend](https://github.com/CouncilDataProject/cdp-backend)
   * [cdp-data](https://github.com/CouncilDataProject/cdp-data)
   * [speakerbox](https://github.com/CouncilDataProject/speakerbox)
+
+Some Projects That I Used to Know:
+* [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio)
+* [aicsimageio -> BioIO](https://github.com/bioio-devs/bioio)
