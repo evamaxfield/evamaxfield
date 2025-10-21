@@ -1,8 +1,8 @@
 ### Hi, I'm Eva 👋
 
-I am a PhD candidate at the [University of Washington Information School](https://ischool.uw.edu/). I use novel machine learning, natural language processing, and network analysis techniques to study the development, maintenance, and impact of research software. I am particularly interested in understanding divisions of labor and maintenance-usage imbalance in open source research software ecosystems.
+I am a PhD candidate at the <a href="https://ischool.uw.edu/">University of Washington Information School</a> advised by <a href="http://nicweber.info/">Dr. Nicholas Weber</a>. My research investigates the identification, measurement, and attribution of scientific software and its developers in science. My work forms connections between scientific source code and publications, examines how scientific software impacts research outcomes, and explores methods for measuring the sustainability of critical research software. My recent work includes studying <a href="https://doi.org/10.48550/arXiv.2510.16242">code contribution and credit in science</a>, <a href="https://doi.org/10.48550/arXiv.2411.05087">measuring software innovation through open-source development data</a>, and <a href="https://doi.org/10.48550/arXiv.2404.06672">identifying crucial but hidden biomedical software packages</a>.
 
-(And sometimes I help with biology, microscopy, and civic tech software development.)
+(And sometimes I help with microscopy and civic tech software development.)
 
 For more details about me, [see my website](https://evamaxfield.github.io).
 
