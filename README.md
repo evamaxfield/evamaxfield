@@ -7,20 +7,21 @@ I am a PhD candidate at the <a href="https://ischool.uw.edu/">University of Wash
 For more details about me, [see my website](https://evamaxfield.github.io).
 
 Projects in Development:
-* [rs-graph](https://github.com/evamaxfield/rs-graph)
-* [sci-soft-models](https://github.com/evamaxfield/sci-soft-models)
-* [aws-grobid](https://github.com/evamaxfield/aws-grobid)
+* [rs-graph](https://github.com/evamaxfield/rs-graph) -- mining software used in science
+* [sci-soft-models](https://github.com/evamaxfield/sci-soft-models) -- computational models for studies of scientific software
+* [aws-grobid](https://github.com/evamaxfield/aws-grobid) -- spin up GROBID servers easily
 
 Outdated but Will Revist Soon:
-* [papers-without-code](https://github.com/evamaxfield/papers-without-code)
+* [papers-without-code](https://github.com/evamaxfield/papers-without-code) -- find github repos similar to research papers
+* [out-and-about](https://evamaxfield.github.io/out-and-about) -- **works best on mobile**, find the closest public bathrooms and water fountains near your location
 
 Old Projects:
-* [CouncilDataProject](https://github.com/CouncilDataProject)
+* [CouncilDataProject](https://github.com/CouncilDataProject) -- city council meeting transcripts, voting records, etc. republished for archival
   * [cookiecutter-cdp-deployment](https://github.com/CouncilDataProject/cookiecutter-cdp-deployment)
   * [cdp-backend](https://github.com/CouncilDataProject/cdp-backend)
   * [cdp-data](https://github.com/CouncilDataProject/cdp-data)
   * [speakerbox](https://github.com/CouncilDataProject/speakerbox)
 
 Some Projects That I Used to Know:
-* [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio)
-* [aicsimageio -> BioIO](https://github.com/bioio-devs/bioio)
+* [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio) -- microscopy image reading in python
+* [aicsimageio -> BioIO](https://github.com/bioio-devs/bioio) -- same but new and less dependencies and licensing oddities
