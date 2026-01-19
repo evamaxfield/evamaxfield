@@ -10,10 +10,12 @@ Projects in Development:
 * [rs-graph](https://github.com/evamaxfield/rs-graph) -- mining software used in science
 * [sci-soft-models](https://github.com/evamaxfield/sci-soft-models) -- computational models for studies of scientific software
 * [aws-grobid](https://github.com/evamaxfield/aws-grobid) -- spin up GROBID servers easily
+* [pyEIL](https://github.com/evamaxifled/py-extract-imported-libraries) -- extract imported libraries (first party, third party, and stdlib) from Python and R files
+* [py-nb-to-src](https://github.com/evamaxfield/py-nb-to-src) -- convert notebook formats (`.ipynb` and `.Rmd` to their script equivalents), useful for preprocessing before source code analysis with `pyEIL` or `lizard`
 
 Outdated but Will Revist Soon:
 * [papers-without-code](https://github.com/evamaxfield/papers-without-code) -- find github repos similar to research papers
-* [out-and-about](https://evamaxfield.github.io/out-and-about) -- **works best on mobile**, find the closest public bathrooms and water fountains near your location
+* [out-and-about](https://evamaxfield.github.io/out-and-about) -- **works best on mobile + Chrome**, find the closest public bathrooms and water fountains near your location
 
 Old Projects:
 * [CouncilDataProject](https://github.com/CouncilDataProject) -- city council meeting transcripts, voting records, etc. republished for archival
@@ -25,3 +27,7 @@ Old Projects:
 Some Projects That I Used to Know:
 * [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio) -- microscopy image reading in python
 * [aicsimageio -> BioIO](https://github.com/bioio-devs/bioio) -- same but new and less dependencies and licensing oddities
+
+---
+
+I have a very opinionated [Python project template](https://github.com/evamaxfield/pyproject-template) I used for research projects, packages, etc. Minimal but it works for me.
